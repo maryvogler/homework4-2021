@@ -84,13 +84,19 @@ td{
   
 }
 
+.rowhead{
+  text-align: center;
+  border-top: 2px solid;
+  padding: 10px;
+}
+
 /*Req 6b*/
 .colhead{
  
   min-width: 125px;
-  padding: 10px;
-  color: #FFFFFF;
+  padding: 10px 0;
   text-align: center;
+  color: #FFFFFF;
   text-transform: uppercase;
   background-color: #7e0820;
 
@@ -99,8 +105,8 @@ td{
 /*Req 6c*/
 .rowhead{
 
-  border-top: 2px #000000;
-  border-right: 2px #000000;
+  border-top: 2px solid;
+  border-right: 2px solid;
  
   
 
