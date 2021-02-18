@@ -120,7 +120,7 @@ tr:nth-child(odd) {
 }
 
 tbody tr:hover {
-  background-color: rgb(139,0,0, .25)
+  background-color: rgba(126, 8, 32, .25))
 
 }
 /*Req 6d*/
